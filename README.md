@@ -1,8 +1,6 @@
 # web-dev-starter
+    Holding
 
-This is a starter project for web development with no frameworks and minimal
-dependencies. It is intended to be a starting point for web development projects
-that are written in plain HTML, CSS, and JavaScript.
 
 ## Getting Started
 
@@ -27,3 +25,10 @@ To run the tests for the project, run the following command:
 ```bash
 npm test
 ```
+
+## Accessibility Lab Answers
+
+    Color:
+        The current colors: black text with Green background. Fails every single one of the contract checker from the following Site:https://webaim.org/resources/contrastchecker/
+
+        In order to fix we change the green to a more contracting color with black making it closer to white. This fixes all of the issues that were found as well.
