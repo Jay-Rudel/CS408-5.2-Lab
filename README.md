@@ -33,6 +33,17 @@ npm test
 
         In order to fix we change the green to a more contracting color with black making it closer to white. This fixes all of the issues that were found as well.
 
+    Semantic HTML
+
+    The Images
+    The Audio Player:
+        1. 
+    The Forms
+    The Show/Hide Comment Control
+    The Table
+    Other Considerations?
+        1.
+        2.
 ## References / If needed
     The only source I used for this project was the
     reading that was provided to us. Just to make sure
