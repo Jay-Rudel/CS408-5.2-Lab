@@ -1,22 +1,22 @@
-# web-dev-starter
+# CS408 - M5.2 Lab
     Holding
 
-
 ## Getting Started
+    To get started, clone this repository, and then you can learn 
+    to view it in the "Viewing" section. Which is below.
 
-To get started, clone this repository and run the following commands:
+    There are tests for this project so you will need to run the following command: 
+    
+    ```npm install```
 
-```bash
-npm install
-```
-This will install the necessary dependencies for the project.
+## Viewing
+    I highly recommend using VSCode Live Server extention to see the project. This allows you to
+    see the page, and interact with the page without having to open it in a local file.
 
-## Development
+    The file that you will be looking at for this project in my github is called "index.html"
 
-It is recommended to use the VSCode Live Server extension to run the project
-locally. This will allow you to see changes in real-time as you make them. There
-is no need to run a build process or refresh the page manually. Additionally,
-you do not need to setup a local server to run the project.
+## Verification
+    TODO: Holding
 
 ## Testing
 
@@ -32,3 +32,9 @@ npm test
         The current colors: black text with Green background. Fails every single one of the contract checker from the following Site:https://webaim.org/resources/contrastchecker/
 
         In order to fix we change the green to a more contracting color with black making it closer to white. This fixes all of the issues that were found as well.
+
+## References / If needed
+    The only source I used for this project was the
+    reading that was provided to us. Just to make sure
+    I could figure out how to do the nav bar. As that was
+    what I had problems coding.
