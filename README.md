@@ -59,7 +59,5 @@ npm test
         2. Overall, some of the padding from element to elment seems a bit extreme. I feel like it would be better suited not to be so large.
 
 ## References / If needed
-    The only source I used for this project was the
-    reading that was provided to us. Just to make sure
-    I could figure out how to do the nav bar. As that was
-    what I had problems coding.
+    The only sources I used for this project was the
+    reading that was provided to us. No outside sources were used for this project.
