@@ -1,3 +1,10 @@
+document.onkeydown = (e) => {
+  //The Enter/Return Key
+  if (e.key === "Enter") {
+    document.activeElement.click();
+  }
+}
+
 // functionality for showing/hiding the comments section
 
 const showHideBtn = document.querySelector('.show-hide');
