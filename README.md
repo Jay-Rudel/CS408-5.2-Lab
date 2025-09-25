@@ -46,6 +46,8 @@ npm test
         2. Order browsers that dont allow for the audio, I added a download for them if the audio doesnt load.
 
     The Forms
+        1. So in order to add this label we have to also add some style so it is hidden to normal users. Its done with a label tag inside the form and then also some style in css under sr-only.
+        2. So in order to link the elements together we can use the label tag. But good news once you have the "for" inside its set if you have ids in the inputs.
 
     The Show/Hide Comment Control
 
