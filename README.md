@@ -39,6 +39,7 @@ npm test
         3. I changed the div element in <div class="nav"> to a <nav> element also fixing the CSS to represent that.
 
     The Images
+        Alt text has been added to both images. This is made up but it is described to the best of my ability.
     The Audio Player:
         1. 
     The Forms
