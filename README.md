@@ -1,13 +1,10 @@
 # CS408 - M5.2 Lab
-    Holding
+    This project is for detecting and fixing accessibility. This is done for all sites
+    to help people be able to view everything from every browser, or by any disability needs.
 
 ## Getting Started
     To get started, clone this repository, and then you can learn 
     to view it in the "Viewing" section. Which is below.
-
-    There are tests for this project so you will need to run the following command: 
-    
-    ```npm install```
 
 ## Viewing
     I highly recommend using VSCode Live Server extention to see the project. This allows you to
@@ -16,15 +13,14 @@
     The file that you will be looking at for this project in my github is called "index.html"
 
 ## Verification
-    TODO: Holding
+    HTML:
+        According to the verification we have one error. This 
+        error however comes from the link for the font. I 
+        don't know exactly what to fix for that.
 
-## Testing
+    CSS:
+        No error was seen for the CSS.
 
-To run the tests for the project, run the following command:
-
-```bash
-npm test
-```
 
 ## Accessibility Lab Answers
 
@@ -50,6 +46,7 @@ npm test
         2. So in order to link the elements together we can use the label tag. But good news once you have the "for" inside its set if you have ids in the inputs.
 
     The Show/Hide Comment Control
+        Added a function that allows you to hit enter to enable the and disable the show comments button.
 
     The Table
         We add a summary of the table inside of a <caption> tag under the initial <table> tag.
