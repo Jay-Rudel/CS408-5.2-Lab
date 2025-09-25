@@ -50,6 +50,7 @@ npm test
     The Show/Hide Comment Control
 
     The Table
+        We add a summary of the table inside of a <caption> tag under the initial <table> tag.
 
     Other Considerations?
         1.
