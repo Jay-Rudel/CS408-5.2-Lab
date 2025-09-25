@@ -40,14 +40,21 @@ npm test
 
     The Images
         Alt text has been added to both images. This is made up but it is described to the best of my ability.
+
     The Audio Player:
-        1. 
+        1. As deaf people were unable to hear the audio, I added a translation too it. I was unable to get a button to work so I just added it as a paragraph.
+        2. Order browsers that dont allow for the audio, I added a download for them if the audio doesnt load.
+
     The Forms
+
     The Show/Hide Comment Control
+
     The Table
+
     Other Considerations?
         1.
         2.
+
 ## References / If needed
     The only source I used for this project was the
     reading that was provided to us. Just to make sure
