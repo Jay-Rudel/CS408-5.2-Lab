@@ -34,6 +34,9 @@ npm test
         In order to fix we change the green to a more contracting color with black making it closer to white. This fixes all of the issues that were found as well.
 
     Semantic HTML
+        1. When trying to navigate using the keyboard almost everything works besides the comment section. Which I fixed by changing from a div to a button.
+        2. I changed the Font tags to h1, h2, and h3 depending on the size of the tag. If size = 6, became a h2. 
+        3. I changed the div element in <div class="nav"> to a <nav> element also fixing the CSS to represent that.
 
     The Images
     The Audio Player:
