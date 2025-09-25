@@ -53,8 +53,8 @@ npm test
         We add a summary of the table inside of a <caption> tag under the initial <table> tag.
 
     Other Considerations?
-        1.
-        2.
+        1. I think one of the big things is the read ability of the normal <p> size. To me it feels small in some points
+        2. Overall, some of the padding from element to elment seems a bit extreme. I feel like it would be better suited not to be so large.
 
 ## References / If needed
     The only source I used for this project was the
